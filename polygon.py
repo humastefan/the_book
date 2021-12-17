@@ -21,6 +21,6 @@ def circle(t, r):
     poligon(t, n, lenght)
 
 
-#circle(t,25)
+#circle(t,25)sadsdssdsafafas
 
 #turtle.mainloop()
